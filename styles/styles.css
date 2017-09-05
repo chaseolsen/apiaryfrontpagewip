@@ -85,6 +85,13 @@
   }
 }
 
+
+/*Add media Q here*/
+.jumbofooter {
+  position: relative;
+  top: -160px;
+}
+
 .navbar-brand {
   padding: 0px;
 }
